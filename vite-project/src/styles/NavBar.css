@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .MuiAppBar-root {
+    background-color: #1976d2 !important;
+  }
+  
+  .MuiButton-root {
+    text-transform: none;
+  }
+  
